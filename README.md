@@ -1,2 +1,2 @@
-# beddingfield.js
-I gotta got pull this.
+# bedingfield.js
+I gotta `git pull` this.
